@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**doctor-blue/doctor-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Android(Kotlin,Java)
+- 🌱 I’m currently learning Python, Django,Flutter
+- 💬 Ask me about Kotlin, Java ,Android, Javascript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=doctor-blue&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Youtube](https://img.shields.io/badge/-My%20Channel-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCMNlL-Nz-XvDDDPgJ-SNsig)
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white)](https://github.com/doctor-blue)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@doctorblue.king)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/vantan.nguyen.7568596)
