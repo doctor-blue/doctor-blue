@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Android(Kotlin,Java)
-- 🌱 I’m currently learning Python, Django,Flutter
-- 💬 Ask me about Kotlin, Java ,Android, Javascript, Python
+- 🔭 I’m currently working on Android(Kotlin,Java),React Native
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about Kotlin, Java ,Android, Javascript, Python,React Native
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
